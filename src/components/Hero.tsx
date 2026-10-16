@@ -111,7 +111,7 @@ export const Hero: React.FC<HeroProps> = ({ onJoinSuccess, waitlistCount }) => {
           <div className="lg:col-span-5">
             <div className="rounded-2xl overflow-hidden border border-zinc-800 shadow-2xl relative">
               <img
-                src="/src/assets/images/hero_exotic_fries_1792168145643.jpg"
+                src="/images/hero_exotic_fries.jpg"
                 alt="Golden crispy french fries sprinkled with exotic spice seasoning"
                 referrerPolicy="no-referrer"
                 className="w-full h-[380px] lg:h-[420px] object-cover"

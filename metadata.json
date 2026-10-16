@@ -2,5 +2,7 @@
   "name": "FRYDUST | Exotic French Fry Seasoning",
   "description": "Artisanal exotic spice mixes that transform ordinary French fries into unforgettable gourmet bites. Join the VIP early access launch waitlist.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
